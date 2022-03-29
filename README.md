@@ -1,2 +1,2 @@
 # HelloWorld
-The first step for learning C++
+The first step for learning C++；
